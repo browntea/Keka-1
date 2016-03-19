@@ -11,3 +11,5 @@ The main compression core is p7zip (7-zip port)
 
 <h4>Extraction formats supported:</h4>
 RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX, ACE (PPC)
+
+Link to download: [http://www.kekaosx.com/]
